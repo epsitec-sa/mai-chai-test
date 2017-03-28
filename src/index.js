@@ -5,4 +5,3 @@ export default class Foo {
     return 42;
   }
 }
- 
